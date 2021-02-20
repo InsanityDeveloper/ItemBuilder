@@ -1,0 +1,4 @@
+name: ItemBuilder
+version: ${project.version}
+main: de.insanitydev.itembuilder.ItemBuilder
+api-version: 1.16
